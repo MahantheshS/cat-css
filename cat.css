@@ -220,7 +220,7 @@
 
 @media (max-width:500px){
     .container{
-        margin-top:20%;
+        margin-top:5%;
     }
     .baloon{
         height:30px;
@@ -241,7 +241,7 @@
     }
 
     .cat-face{
-        margin-top:14%;
+        margin-top:18%;
     }
 
     @keyframes cat-face{
